@@ -1,0 +1,10 @@
+document.writeln("<div id='barra_acao_top'>");
+document.writeln("<div id='barra_localizacao'></div>");
+document.writeln("<table align='right' cellspacing='0'>");
+document.writeln("<tr>");
+document.writeln("<td><img src='WEB-INF/pages/images/back_barra_acao_top_esq.png'></td>");
+document.writeln("<td><a href='javascript:history.back()'>voltar</a></td><td><a href='javascript:history.back()'><img src='WEB-INF/pages/images/icon_voltar.png' border='0'></a></td>");
+document.writeln("<td><img src='WEB-INF/pages/images/back_barra_acao_top_dir.png'></td>");
+document.writeln("</tr>");
+document.writeln("</table>");
+document.writeln("</div>");
